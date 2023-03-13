@@ -9,6 +9,7 @@
 ## Team guideline for merging pull requests:
 
     - Must have detailed commit messages
+    - There needs to be at least one reviewer before PR
 
 List the author and links to any Attributions for code and/or assets you used that are not your own;
 
